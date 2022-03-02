@@ -3,11 +3,8 @@ site_name: Howelling Depths
 theme:
     name: 'material'
     palette:
-
-    # Dark mode
-    - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue grey
+      primary: black
       accent: blue
 
 # Extensions
