@@ -1,4 +1,4 @@
-# DnD Herbalism and Alchemy Homebrew
+# Herbalism and Alchemy
 
 ## Searching for Herbs
 
