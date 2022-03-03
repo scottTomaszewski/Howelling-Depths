@@ -2,7 +2,8 @@
 
 ## Preparing a "Homecooked" Meal
 
-Tl;DR
+**Tl;DR**
+
 1) Meal Preparer declares they want to make a meal and the ingredients they want to use
 2) DM determines DC of the preparation and the `Bonus Effect Type` based on the meal
 3) Meal Preparer rolls a `Wisdom (Survival)` check for the meal preparation
