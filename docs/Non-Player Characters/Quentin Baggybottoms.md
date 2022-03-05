@@ -1,6 +1,6 @@
 # Quentin Baggybottoms
 
-![[Quentin Baggybottoms.jpg|500]]
+![[howellingDepthsPublic/docs/Non-Player Characters/Quentin Baggybottoms.jpg|500]]
 
 Kind-hearted environmentalist in [[Tiselles]]
 

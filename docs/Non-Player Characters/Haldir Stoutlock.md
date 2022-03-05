@@ -1,10 +1,16 @@
 # Haldir Stoutlock
 
-![[Haldir Stoutlock.png|500]]
+[[howellingDepthsPublic/docs/Non-Player Characters/Haldir Stoutlock.png]]
 
-The Lieutenant of the Guard of [[Tiselles]] within the [[High Forest|High Forest]] under [[Stron Oxglove]].
+![[howellingDepthsPublic/docs/Non-Player Characters/Haldir Stoutlock.png]]
+
+[[Haldir Stoutlock.png]]
+
+![[Haldir Stoutlock.png]]
+
+The Lieutenant of the Guard of Tiselles within the High Forest under [[Stron Oxglove]].
 
 ## Notes
 
-- Originally met Haldir with [[howellingDepthsPublic/docs/Non-Player Characters/Stron Oxglove]] on initial meeting in the tavern
+- Originally met Haldir with [[Stron Oxglove]] on initial meeting in the tavern
 	-  Hair unkempt, dirty face, looked stressed, weary, and didnt smell great

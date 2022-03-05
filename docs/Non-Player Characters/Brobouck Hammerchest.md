@@ -1,5 +1,5 @@
 # Brobouck Hammerchest
 
-![[Brobouck Hammerchest.jpg|500]]
+![[howellingDepthsPublic/docs/Non-Player Characters/Brobouck Hammerchest|500]]
 
-Resident Master Mason within [[Tiselles]].  Has a Mason Workshop near the river.
+Resident Master Mason within Tiselles.  Has a Mason Workshop near the river.
