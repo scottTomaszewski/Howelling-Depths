@@ -1,8 +1,8 @@
 # Flynn Thorncoat
 
-![[howellingDepthsPublic/docs/Non-Player Characters/Flynn Thorncoat.png|500]]
+![[Flynn Thorncoat.png|500]]
 
-Scout and member of the City Watch under [[howellingDepthsPublic/docs/Non-Player Characters/Stron Oxglove]].
+Scout and member of the City Watch under [[Stron Oxglove]].
 
 ## Notes
 

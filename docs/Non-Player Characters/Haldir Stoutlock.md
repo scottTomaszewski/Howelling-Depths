@@ -1,11 +1,5 @@
 # Haldir Stoutlock
 
-[[howellingDepthsPublic/docs/Non-Player Characters/Haldir Stoutlock.png]]
-
-![[howellingDepthsPublic/docs/Non-Player Characters/Haldir Stoutlock.png]]
-
-[[Haldir Stoutlock.png]]
-
 ![[Haldir Stoutlock.png]]
 
 The Lieutenant of the Guard of Tiselles within the High Forest under [[Stron Oxglove]].
