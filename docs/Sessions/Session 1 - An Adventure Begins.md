@@ -17,3 +17,7 @@
 > After this long batte, our adventurers catch their breath and recover for the moment before journeying further on their mission. Beams of the setting sun breaks through the treetops as the threat of the mystical, wild, and reckless nightlife within the High Forest looms near.
 >
 > It is here in this brief moment of relaxation that we continue our story...
+
+## Items acquired
+
+- Elrondhel: Waterskin of Invisibility
