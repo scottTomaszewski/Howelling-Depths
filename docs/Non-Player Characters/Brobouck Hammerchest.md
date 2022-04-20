@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Brobouck Hammerchest
 
 ![[Brobouck Hammerchest.jpg|500]]

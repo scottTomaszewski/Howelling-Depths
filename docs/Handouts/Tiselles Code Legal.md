@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Tiselles Code Legal
 
 _Punishment for a crime can include one or more of the following, based on the nature of the crime, who or what the crime is committed against, and the criminal record of the convicted:_

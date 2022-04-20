@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Haldir Stoutlock
 
 ![[Haldir Stoutlock.png]]

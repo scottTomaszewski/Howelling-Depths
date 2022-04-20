@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Stron Oxglove
 
 ![[Stron Oxglove.jpg|500]]

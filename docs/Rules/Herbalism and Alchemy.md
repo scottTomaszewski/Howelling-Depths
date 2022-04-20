@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Herbalism and Alchemy
 
 ## Searching for Herbs

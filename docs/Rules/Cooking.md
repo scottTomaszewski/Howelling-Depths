@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Cooking
 
 ## Preparing a "Homecooked" Meal

@@ -1,3 +1,6 @@
+---
+tags: [howelling_depths_public]
+---
 # Quentin Baggybottoms
 
 ![[Quentin Baggybottoms.jpg|500]]

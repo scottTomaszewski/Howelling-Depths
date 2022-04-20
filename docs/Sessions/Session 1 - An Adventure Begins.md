@@ -1,10 +1,13 @@
+---
+tags: [howelling_depths_public]
+---
 # Session 1 - An Adventure Begins
 
 ## Summary
 
 > Our adventure began near the center of the [[High Forest]] in [[Tiselles]], a Human Settlement on the banks of the Heartblood River.
 > 
-> At daybreak of a new Spring day, seven unlikely individuals gathered in the Twisted Thicket Tavern after being summoned by [[Stron Oxglove]], Captain of the Tiselles Guard.  As our adventurers met for the first time, beers and breakfast were ordered just before a disagrement broken out as tensions rose.  Before things escalated beyond control, Stron and [[Haldir Stoutlock]] entered the Tavern, pacified the situaton, and called the Adventurers to a table where he informs the group that the City Guard was in need of some assistance in dealing with a local Goblin Clan stealing from the local residents.  After recruiting the adventuers to the cause, Stron and Haldir departed the tavern as you overhear them discussing what sounds like battle plans and the adventuers followed shortly.
+> At daybreak of a new Spring day, seven unlikely individuals gathered in the [[Twisted Thicket Tavern]] after being summoned by [[Stron Oxglove]], Captain of the Tiselles Guard.  As our adventurers met for the first time, beers and breakfast were ordered just before a disagrement broken out as tensions rose.  Before things escalated beyond control, Stron and [[Haldir Stoutlock]] entered the Tavern, pacified the situaton, and called the Adventurers to a table where he informs the group that the City Guard was in need of some assistance in dealing with a local Goblin Clan stealing from the local residents.  After recruiting the adventuers to the cause, Stron and Haldir departed the tavern as you overhear them discussing what sounds like battle plans and the adventuers followed shortly.
 >
 > Within the Village market, the party was immediately drawn to [[Quentin Baggybottoms]] who was ecstatic to talk about [[Arcana Wyrm]]s and offered some Healing Kits as a token of appreciation, especially for the inquisitive queries about the mating rituals of the Wyrms.  The adventurers made their way to the Tiselles Gate where they met the brash mason [[Brobouck Hammerchest]], who mentors [[Perrinn Ophinstalajiir]] and reminded Perrinn to run an errand for Ms. Lavern tomorrow.  
 > 

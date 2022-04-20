@@ -1,3 +1,7 @@
+---
+tags: [howelling_depths_public]
+---
+
 # Session 2 - Into the Goblin Lair
 
 [Youtube - Howelling Depths Session 2](https://youtu.be/J5c-ghnJasI)
