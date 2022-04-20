@@ -1,6 +1,3 @@
----
-tags: [howelling_depths_public]
----
 # Session 3 - Axtons Lair
 
 [Youtube - Howelling Depths Session 3](https://www.youtube.com/watch?v=5PW5pKbXyPo)

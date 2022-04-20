@@ -1,6 +1,3 @@
----
-tags: [howelling_depths_public]
----
 # Summons Note from Stron
 
 Each of you receive the following note. For those that live in/near Tiselles, it is delivered by mail. For everyone else, a courier finds you while you're in the village.

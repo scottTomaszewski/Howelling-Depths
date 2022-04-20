@@ -1,11 +1,8 @@
----
-tags: [howelling_depths_public]
----
 # Stron Oxglove
 
 ![[Stron Oxglove.jpg|500]]
 
-Captain of the Guard of Tiselles within the High Forest.  
+Captain of the Guard of [[Tiselles]] within the High Forest.  
 
 ## Notes
 

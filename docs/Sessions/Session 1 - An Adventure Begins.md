@@ -1,6 +1,3 @@
----
-tags: [howelling_depths_public]
----
 # Session 1 - An Adventure Begins
 
 ## Summary
