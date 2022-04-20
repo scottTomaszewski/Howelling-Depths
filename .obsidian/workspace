@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "b5919cea30cf158e",
+    "type": "split",
+    "children": [
+      {
+        "id": "16ca0e8d01015f58",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Locations/Tiselles.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f9be89bb2ce230d",
+    "type": "split",
+    "children": [
+      {
+        "id": "90efef89a16d83d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e916732411cb49d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "34d70b087745cc14",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ece19dc49d7c786",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cefee04d07e41a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f095e02e61b6d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Locations/Tiselles.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "16ca0e8d01015f58",
+  "lastOpenFiles": [
+    "docs/Locations/Tiselles.md",
+    "docs/Assets/tiselles_in_high_forest.png",
+    "README.md",
+    "docs/index.md",
+    "docs/Sessions/Session 3 - Axtons Lair.md",
+    "docs/Sessions/Session 2 - Into the Goblin Lair.md",
+    "docs/Sessions/Session 1 - An Adventure Begins.md",
+    "docs/Rules/Resurrection.md",
+    "docs/Rules/Herbalism and Alchemy.md",
+    "docs/Rules/Cooking.md"
+  ]
+}
