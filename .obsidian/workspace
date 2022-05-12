@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Locations/Tiselles.md",
+            "file": "docs/Sessions/Session 4 - Returning to Tiselles.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 350
   },
   "right": {
     "id": "2ece19dc49d7c786",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Locations/Tiselles.md",
+                "file": "docs/Sessions/Session 4 - Returning to Tiselles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "16ca0e8d01015f58",
   "lastOpenFiles": [
-    "docs/Locations/Tiselles.md",
-    "docs/Assets/tiselles_in_high_forest.png",
-    "README.md",
-    "docs/index.md",
-    "docs/Sessions/Session 3 - Axtons Lair.md",
-    "docs/Sessions/Session 2 - Into the Goblin Lair.md",
-    "docs/Sessions/Session 1 - An Adventure Begins.md",
-    "docs/Rules/Resurrection.md",
-    "docs/Rules/Herbalism and Alchemy.md",
-    "docs/Rules/Cooking.md"
+    "docs/Sessions/Session 4 - Returning to Tiselles.md",
+    "docs/Non-Player Characters/Wentworth Webster.md",
+    "docs/Assets/Wentworth Webster.png",
+    "docs/Non-Player Characters/Haldir Stoutlock.md",
+    "docs/Non-Player Characters/Flynn Thorncoat.md",
+    "docs/Non-Player Characters/Chadwick Vossler.md",
+    "docs/Non-Player Characters/Quentin Baggybottoms.md",
+    "docs/Assets/Chadwick Vossler.png",
+    "docs/Non-Player Characters/Robyn Ramwright.md",
+    "docs/Non-Player Characters/Brobouck Hammerchest.md"
   ]
 }
