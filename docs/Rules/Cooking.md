@@ -41,7 +41,7 @@ Eating a prepared meal grants one of the following bonuses based on the type of 
 | -------------------- | ------------ | ------------------------- | ------------------- | --------------------- | ----------------- |
 | 10+ over DC          | Perfect      | +3                        | `5 + roll - DC`     | `1d8`, 1h             | +4, 2h            |
 | 5-9 over DC          | High quality | +2                        | `5 + roll - DC`     | `1d6`, 30m            | +3, 1h            |
-| 0-4 over DC          | Decent       | +1                        | `5 + roll - DC` tHP | `1d4`, 30m            | +2, 30m           |
+| 0-4 over DC          | Decent       | +1                        | `5 + roll - DC`     | `1d4`, 30m            | +2, 30m           |
 | 1-4 under DC         | Flawed       | no effect                 | no effect           | no effect             | no effect         |
 | 5-9 under DC         | Concerning   | -1                        | `roll - DC` dmg     | Disadv on next atk    | -1 Save, 30m      |
 | 10+ under DC         | Rancid       | -2                        | `roll - DC` dmg     | Disadv on next 2 atks | -2 Save. 1h       |

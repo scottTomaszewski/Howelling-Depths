@@ -2,11 +2,13 @@
 
 [Youtube - Howelling Depths Session 4](https://youtu.be/nWfkC7KIxlA)
 
+The video has audio issues - my desktop audio was not properly balanced and nobody can be heard except my mic
+
 ## Session Recap
 
 Last we left off, you all took a short break to recover and examine some newly found trinkets.  Nokomis' needle was discovered to be a magical tattoo that seems to satiate and nourish her (*yet to be named*) Arcana Wyrm.  Grendyl came to find his pouch was reversible, one side for creating ingredients, the other for creating a variety of adorable creatures.  Perrinn also sought to remember the victory over the Goblin Lair by asking his allies to sign his drum.
 
-Making your way back to your starting village of Tiselles, Elrondhel took a moment to speak with a nearby bird to verify that the stolen goods requested by [[Stron Oxglove|Stron]] were indeed only taken by Goblins, and Perrinn started his rock collection. 
+Making your way back to your starting village of [[Tiselles]], Elrondhel took a moment to speak with a nearby bird to verify that the stolen goods requested by [[Stron Oxglove|Stron]] were indeed only taken by Goblins, and Perrinn started his rock collection. 
 
 When you arrived at the Tiselles Gates, [[Flynn Thorncoat|Flynn]] abruptly halted the excited approach of his sons while whistling for his fellow guards in order to make known that there are **always** consequences to your actions.  But... he let you off for now...
 

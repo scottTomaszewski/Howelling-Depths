@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Wentworth Webster.md",
-            "mode": "source"
+            "file": "docs/index.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Wentworth Webster.md",
+                "file": "docs/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "16ca0e8d01015f58",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Sessions/Session 4 - Returning to Tiselles.md",
+    "docs/Rules/Resurrection.md",
+    "docs/Rules/Cooking.md",
+    "docs/Rules/Assisted High Jump.md",
+    "docs/Rules/Herbalism and Alchemy.md",
+    "docs/Locations/Tiselles.md",
     "docs/Non-Player Characters/Wentworth Webster.md",
     "docs/Non-Player Characters/Stron Oxglove.md",
-    "docs/Non-Player Characters/Robyn Ramwright.md",
-    "docs/Non-Player Characters/Quentin Baggybottoms.md",
-    "docs/Non-Player Characters/Haldir Stoutlock.md",
-    "docs/Non-Player Characters/Flynn Thorncoat.md",
-    "docs/Non-Player Characters/Chadwick Vossler.md",
-    "docs/Sessions/Session 2 - Into the Goblin Lair.md",
-    "docs/Non-Player Characters/Brobouck Hammerchest.md",
-    "docs/Sessions/Session 4 - Returning to Tiselles.md"
+    "docs/Non-Player Characters/Robyn Ramwright.md"
   ]
 }
