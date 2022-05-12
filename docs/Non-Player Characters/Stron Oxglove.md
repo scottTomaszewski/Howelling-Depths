@@ -1,3 +1,7 @@
+---
+aliases: Stron
+---
+
 # Stron Oxglove
 
 ![[Stron Oxglove.jpg|500]]

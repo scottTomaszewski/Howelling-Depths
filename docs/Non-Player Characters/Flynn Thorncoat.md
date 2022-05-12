@@ -1,3 +1,7 @@
+---
+aliases: Flynn
+---
+
 # Flynn Thorncoat
 
 ![[Flynn Thorncoat.png|500]]

@@ -1,3 +1,7 @@
+---
+aliases: Robyn
+---
+
 # Robyn Ramwright
 
 ![[Robyn Ramwright.jpg|500]]

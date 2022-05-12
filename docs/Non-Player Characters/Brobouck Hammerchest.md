@@ -1,3 +1,7 @@
+---
+aliases: Brobouck
+---
+
 # Brobouck Hammerchest
 
 ![[Brobouck Hammerchest.jpg|500]]

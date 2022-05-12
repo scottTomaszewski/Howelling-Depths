@@ -1,3 +1,7 @@
+---
+aliases: Quentin
+---
+
 # Quentin Baggybottoms
 
 ![[Quentin Baggybottoms.jpg|500]]

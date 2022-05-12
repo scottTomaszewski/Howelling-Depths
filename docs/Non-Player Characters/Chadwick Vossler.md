@@ -1,3 +1,7 @@
+---
+aliases: Chadwick
+---
+
 # Chadwick 'Twisting' Vossler
 
 ![[Chadwick Vossler.png]]

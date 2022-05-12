@@ -1,3 +1,7 @@
+---
+aliases: Wentworth
+---
+
 # Wentworth Webster
 
 ![[Wentworth Webster.png]]

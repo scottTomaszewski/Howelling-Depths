@@ -1,3 +1,7 @@
+---
+aliases: Haldir
+---
+
 # Haldir Stoutlock
 
 ![[Haldir Stoutlock.png]]
