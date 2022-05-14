@@ -1,4 +1,29 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "foldIndent": false,
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Magy",
+    "Orothiar",
+    "Silgrul",
+    "Tiselles",
+    "Naivara",
+    "Nailo",
+    "Elrondhel",
+    "Nokomis",
+    "Ursus",
+    "Steelglade",
+    "Ium",
+    "Ulgfar",
+    "Perrinn",
+    "Grendyl",
+    "Axton",
+    "Arcana",
+    "Wyrms",
+    "Brobouck",
+    "dragonborn",
+    "Ulfgar",
+    "Haldir"
+  ]
 }

@@ -9,8 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/index.md",
-            "mode": "preview"
+            "file": "docs/Sessions/Session 5 - Curious in Tiselles.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ed160a6cb2f79ab5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "docs/Handouts/Town Manifest - Silgrul Orothiar.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Sessions/Session 5 - Curious in Tiselles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +98,15 @@
   },
   "active": "16ca0e8d01015f58",
   "lastOpenFiles": [
-    "docs/index.md",
-    "docs/Sessions/Session 4 - Returning to Tiselles.md",
-    "docs/Rules/Resurrection.md",
-    "docs/Rules/Cooking.md",
-    "docs/Rules/Assisted High Jump.md",
-    "docs/Rules/Herbalism and Alchemy.md",
-    "docs/Locations/Tiselles.md",
-    "docs/Non-Player Characters/Wentworth Webster.md",
-    "docs/Non-Player Characters/Stron Oxglove.md",
-    "docs/Non-Player Characters/Robyn Ramwright.md"
+    "docs/Sessions/Session 5 - Curious in Tiselles.md",
+    "docs/Non-Player Characters/Silgrul Orothiar.md",
+    "docs/Handouts/Town Manifest - Silgrul Orothiar.md",
+    "docs/Non-Player Characters/Ium Steelglade.md",
+    "docs/Non-Player Characters/Ursus Steelglade.md",
+    "docs/Non-Player Characters/Layla Mooncoat.md",
+    "docs/Non-Player Characters/Naivara Nailo.md",
+    "docs/Assets/Naivara Nailo.png",
+    "docs/Non-Player Characters/Onazar.md",
+    "docs/Organizations/Conclave Council.md"
   ]
 }
