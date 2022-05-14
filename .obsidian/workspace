@@ -7,10 +7,9 @@
         "id": "16ca0e8d01015f58",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "docs/Player Characters/Ulfgar Frostbeard.md",
-            "mode": "source"
+            "file": "docs/Assets/Elrondhel Grayire.png"
           }
         }
       },
@@ -20,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Player Characters/Perrinn Ophinstalajiir.md",
+            "file": "docs/Player Characters/Grendyl Silverbuck.md",
             "mode": "source"
           }
         }
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Player Characters/Ulfgar Frostbeard.md",
+                "file": "docs/Assets/Elrondhel Grayire.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +97,15 @@
   },
   "active": "16ca0e8d01015f58",
   "lastOpenFiles": [
-    "docs/Player Characters/Ulfgar Frostbeard.md",
-    "docs/Player Characters/Toothless.md",
+    "docs/Assets/Elrondhel Grayire.png",
+    "docs/Player Characters/Grendyl Silverbuck.md",
+    "docs/Assets/Perrinn Ophinstalajiir.png",
     "docs/Player Characters/Perrinn Ophinstalajiir.md",
-    "docs/Player Characters/Nokomis Ayladione.md",
-    "docs/Non-Player Characters/Haldir Stoutlock.md",
-    "docs/Sessions/Session 4 - Returning to Tiselles.md",
-    "docs/Non-Player Characters/Stron Oxglove.md",
+    "docs/Assets/Magy Merryflayer.png",
     "docs/Player Characters/Magy Merryflayer.md",
-    "docs/Sessions/Session 5 - Curious in Tiselles.md",
-    "docs/Player Characters/Grendyl Silverbuck.md"
+    "docs/Player Characters/Ulfgar Frostbeard.md",
+    "docs/Player Characters/Elrondhel Grayire.md",
+    "docs/Player Characters/Toothless.md",
+    "docs/Player Characters/Nokomis Ayladione.md"
   ]
 }

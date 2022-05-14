@@ -1,8 +1,10 @@
 ---
-aliases: Elrondhel
+aliases: Elrondhel, El
 ---
 
 # Elrondhel Grayire
+
+![[Elrondhel Grayire.png]]
 
 |       |          |
 | ----- | -------- |

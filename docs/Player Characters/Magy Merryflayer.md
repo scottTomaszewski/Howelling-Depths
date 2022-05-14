@@ -4,6 +4,9 @@ aliases: Magy
 
 # Magy Merryflayer
 
+![[Magy Merryflayer.png]]
+
+
 |       |         |
 | ----- | ------- |
 | Race  | Dwarf   |

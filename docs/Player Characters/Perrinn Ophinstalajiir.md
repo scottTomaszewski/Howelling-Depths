@@ -6,6 +6,8 @@ race: Dragonborn
 
 # Perrinn "Perry" Ophinstalajiir
 
+![[Perrinn Ophinstalajiir.png]]
+
 |       |            |
 | ----- | ---------- |
 | Race  | Dragonborn |
