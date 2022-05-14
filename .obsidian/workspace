@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Sessions/Session 5 - Curious in Tiselles.md",
+            "file": "docs/Player Characters/Ulfgar Frostbeard.md",
             "mode": "source"
           }
         }
@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Handouts/Town Manifest - Silgrul Orothiar.md",
+            "file": "docs/Player Characters/Perrinn Ophinstalajiir.md",
             "mode": "source"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Sessions/Session 5 - Curious in Tiselles.md",
+                "file": "docs/Player Characters/Ulfgar Frostbeard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,15 +98,15 @@
   },
   "active": "16ca0e8d01015f58",
   "lastOpenFiles": [
+    "docs/Player Characters/Ulfgar Frostbeard.md",
+    "docs/Player Characters/Toothless.md",
+    "docs/Player Characters/Perrinn Ophinstalajiir.md",
+    "docs/Player Characters/Nokomis Ayladione.md",
+    "docs/Non-Player Characters/Haldir Stoutlock.md",
+    "docs/Sessions/Session 4 - Returning to Tiselles.md",
+    "docs/Non-Player Characters/Stron Oxglove.md",
+    "docs/Player Characters/Magy Merryflayer.md",
     "docs/Sessions/Session 5 - Curious in Tiselles.md",
-    "docs/Non-Player Characters/Silgrul Orothiar.md",
-    "docs/Handouts/Town Manifest - Silgrul Orothiar.md",
-    "docs/Non-Player Characters/Ium Steelglade.md",
-    "docs/Non-Player Characters/Ursus Steelglade.md",
-    "docs/Non-Player Characters/Layla Mooncoat.md",
-    "docs/Non-Player Characters/Naivara Nailo.md",
-    "docs/Assets/Naivara Nailo.png",
-    "docs/Non-Player Characters/Onazar.md",
-    "docs/Organizations/Conclave Council.md"
+    "docs/Player Characters/Grendyl Silverbuck.md"
   ]
 }

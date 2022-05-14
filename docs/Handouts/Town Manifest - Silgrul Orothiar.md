@@ -1,6 +1,6 @@
 # Town Manifest - Silgrul Orothiar
 
-There is a low-quality image of a man, about 350 years old, 47 years older than Magy). The dwarf in the image has a face that bears the same features as Magy; the resemblance is uncanny.
+There is a low-quality image of a man, about 350 years old, 47 years older than [[Magy Merryflayer|Magy]]). The dwarf in the image has a face that bears the same features as [[Magy Merryflayer|Magy]]; the resemblance is uncanny.
 
 ```
 - Arrived on a ship via the heartblood river, 1986 (10 years ago)
@@ -13,4 +13,4 @@ There is a low-quality image of a man, about 350 years old, 47 years older than 
 - See bin 672
 ```
 
-Within bin `672`, Magy found something of a symbol, made of metal.  Its properties are unknown
+Within bin `672`, [[Magy Merryflayer|Magy]] found something of a symbol, made of metal.  Its properties are unknown

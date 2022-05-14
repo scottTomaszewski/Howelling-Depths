@@ -6,4 +6,4 @@ aliases: Brobouck
 
 ![[Brobouck Hammerchest.jpg|500]]
 
-Resident Master Mason within [[Tiselles]].  Has a Mason Workshop near the river.  Is the mentor of Perrinn.
+Resident Master Mason within [[Tiselles]].  Has a Mason Workshop near the river.  Is the mentor of [[Perrinn Ophinstalajiir|Perrinn]].

@@ -11,4 +11,4 @@ The Lieutenant of the Guard of [[Tiselles]] within the High Forest under [[Stron
 ## Notes
 
 - Originally met Haldir with [[Stron Oxglove]] on initial meeting in the [[Twisted Thicket Tavern]]
-	-  Hair unkempt, dirty face, looked stressed, weary, and didnt smell great
+	-  Hair unkempt, dirty face, looked stressed, weary, and didn't smell great

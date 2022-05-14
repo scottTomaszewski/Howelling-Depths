@@ -6,7 +6,7 @@ A PC (Assister) can boost another PC (Jumper) with a running start to gain addit
 
 PC (Jumper) can jump `3 + Jumper STR Modifier + (0.5 * Assister's height) + Assister STR Modifier + Assister Athletics Proficiency`
 
-> Example: Jumper (Grendyl) with STR Modifier of `+1` and Assister (Ulfgar) with STR Modifier of `+4` and height of `4 feet` would calculate as
+> Example: Jumper ([[Grendyl Silverbuck|Grendyl]]) with STR Modifier of `+1` and Assister ([[Ulfgar Frostbeard|Ulfgar]]) with STR Modifier of `+4` and height of `4 feet` would calculate as
 > `3 + 1 + (0.5 * 4) + 4 + 2` = `12 feet`
 
 When performing, both the Assister and the Jumper need to make `DC 15` `Dexterity (Acrobatics)` checks to attempt this.
