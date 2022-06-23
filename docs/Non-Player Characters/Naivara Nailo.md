@@ -1,3 +1,7 @@
+---
+aliases: Naivara
+---
+
 # Naivara Nailo
 
 ![[Naivara Nailo.png]]

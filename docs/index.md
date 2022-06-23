@@ -1,6 +1,6 @@
 # Howelling Depths
 
-This site contains public information about the Howelling Depths Campaign.
+This site contains public information about the Howelling Depths Campaign and _The Stron Seven_.
 
 ## Resources
 
