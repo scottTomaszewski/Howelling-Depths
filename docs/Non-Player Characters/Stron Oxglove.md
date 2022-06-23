@@ -6,7 +6,7 @@ aliases: Stron
 
 ![[Stron Oxglove.jpg|500]]
 
-Captain of the Guard of [[Tiselles]] within the High Forest.  
+Previous Captain of the Guard of [[Tiselles]] within the High Forest, until he was eaten alive.
 
 ## Notes
 

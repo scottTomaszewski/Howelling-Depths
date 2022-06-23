@@ -6,7 +6,7 @@ aliases: Haldir
 
 ![[Haldir Stoutlock.png]]
 
-The Lieutenant of the Guard of [[Tiselles]] within the High Forest under [[Stron Oxglove]].
+Once the Lieutenant of the Guard of [[Tiselles]] within the High Forest under [[Stron Oxglove]], is now Captain after Stron was eaten alive.
 
 ## Notes
 
