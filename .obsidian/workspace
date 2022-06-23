@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Non-Player Characters/Ursus Steelglade.md",
+            "file": "docs/Player Characters/Ulfgar Frostbeard.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Non-Player Characters/Ursus Steelglade.md",
+                "file": "docs/Player Characters/Ulfgar Frostbeard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "49d39dd743e0d5e0",
   "lastOpenFiles": [
+    "docs/Player Characters/Ulfgar Frostbeard.md",
+    "docs/Player Characters/Toothless.md",
+    "docs/Player Characters/Perrinn Ophinstalajiir.md",
+    "docs/Player Characters/Nokomis Ayladione.md",
+    "docs/Player Characters/Magy Merryflayer.md",
+    "docs/Player Characters/Grendyl Silverbuck.md",
+    "docs/Player Characters/Elrondhel Grayire.md",
+    "docs/Non-Player Characters/Frankfurt the Sheep.md",
     "docs/Non-Player Characters/Ursus Steelglade.md",
-    "docs/Non-Player Characters/Stron Oxglove.md",
-    "docs/Non-Player Characters/Silgrul Orothiar.md",
-    "docs/Non-Player Characters/Robyn Ramwright.md",
-    "docs/Non-Player Characters/Quentin Baggybottoms.md",
-    "docs/Non-Player Characters/Onazar.md",
-    "docs/Non-Player Characters/Naivara Nailo.md",
-    "docs/Non-Player Characters/Layla Mooncoat.md",
-    "docs/Non-Player Characters/Ium Steelglade.md",
-    "docs/Non-Player Characters/Haldir Stoutlock.md"
+    "docs/Non-Player Characters/Stron Oxglove.md"
   ]
 }

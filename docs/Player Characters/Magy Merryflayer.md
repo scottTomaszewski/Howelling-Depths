@@ -15,3 +15,9 @@ aliases: Magy
 ## Connections
 
 - Seeking her Father, [[Silgrul Orothiar]] with the help of [[Wentworth Webster]]
+
+## Items
+
+### Unidentified Holy Symbol
+
+???

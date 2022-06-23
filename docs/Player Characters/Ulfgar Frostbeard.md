@@ -8,3 +8,9 @@ aliases: Ulfgar
 | ----- | --------- |
 | Race  | Dwarf     |
 | Class | Barbarian | 
+
+## Items
+
+### Whispering Greataxe 
+
+...?

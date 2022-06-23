@@ -16,3 +16,9 @@ race: Dragonborn
 ## Connections
 
 - Grew up in the same Dragonborn village as [[Toothless]] where he was known as a local hero for rescuing the village mayor
+
+## Items
+
+### Customized Hand Drum
+
+https://www.dndbeyond.com/magic-items/27065-instrument-of-illusions
