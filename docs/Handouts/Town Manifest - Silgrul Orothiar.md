@@ -13,4 +13,4 @@ There is a low-quality image of a man, about 350 years old, 47 years older than 
 - See bin 672
 ```
 
-Within bin `672`, [[Magy Merryflayer|Magy]] found something of a symbol, made of metal.  Its properties are unknown
+Within bin `672`, [[Magy Merryflayer|Magy]] found something of a symbol, made of metal.  Upon investigation, [[Magy Merryflayer|Magy]] found the Symbol to be that of [[Moradin]] and she fashioned it into a Dragon Ear Cuff.  The ear cuff had the properties of the [Holy Symbol of Alertness](https://www.dndbeyond.com/magic-items/4780042-holy-symbol-of-alertness). 

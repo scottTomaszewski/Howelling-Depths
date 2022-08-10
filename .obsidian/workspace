@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "docs/Player Characters/Ulfgar Frostbeard.md",
-            "mode": "source"
+            "file": "docs/Non-Player Characters/Moradin.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Player Characters/Ulfgar Frostbeard.md",
+                "file": "docs/Non-Player Characters/Moradin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "49d39dd743e0d5e0",
   "lastOpenFiles": [
+    "docs/Handouts/Town Manifest - Silgrul Orothiar.md",
+    "docs/Assets/Moradin Symbol.png",
+    "docs/Non-Player Characters/Moradin.md",
+    "docs/Sessions/Session 7 - Rhythmic detection, mimic infection.md",
+    "docs/Handouts/Maps.md",
+    "docs/Assets/Eastern High Forest - Detect Magic.png",
+    "docs/Assets/broken fence.png",
     "docs/Player Characters/Ulfgar Frostbeard.md",
     "docs/Player Characters/Toothless.md",
-    "docs/Player Characters/Perrinn Ophinstalajiir.md",
-    "docs/Player Characters/Nokomis Ayladione.md",
-    "docs/Player Characters/Magy Merryflayer.md",
-    "docs/Player Characters/Grendyl Silverbuck.md",
-    "docs/Player Characters/Elrondhel Grayire.md",
-    "docs/Non-Player Characters/Frankfurt the Sheep.md",
-    "docs/Non-Player Characters/Ursus Steelglade.md",
-    "docs/Non-Player Characters/Stron Oxglove.md"
+    "docs/Player Characters/Perrinn Ophinstalajiir.md"
   ]
 }
